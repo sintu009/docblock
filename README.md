@@ -34,5 +34,5 @@ IPFS
 ![image](https://user-images.githubusercontent.com/98889943/211581640-70881be9-aebc-46ea-9874-52b97db8c1bb.png)
 
 ![image](https://user-images.githubusercontent.com/98889943/211581723-1ee0b281-1286-4ba0-8e77-4f6806ec45ef.png)
-
+[ppt.pdf](https://github.com/sintu009/docblock/files/10404538/ppt.pdf)
 
